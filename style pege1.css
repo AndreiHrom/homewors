@@ -1,0 +1,49 @@
+.block{
+    text-align: center;
+}
+.colortext{
+    color: blue;
+}
+.ordinary {
+    background-color: rgb(60, 255, 0);
+    font-family: 'Trade Winds', sans-serif;
+    font-size: 30px;
+  }
+
+  .text1{
+      color: darkviolet;
+      font-size: 40px;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  .text2{
+      color: firebrick;
+      font-size: 30px;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  .text3{
+      color: green;
+      font-size: 55px;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  .t2{
+      color: rgb(245, 25, 54);
+       font-weight: 400;
+       font-family: 'Roboto Condensed' ;
+
+  }
+  .t3{
+      color:darkred;
+      text-decoration:underline;
+      font-size: 55px;
+      font-family: 'Roboto Condensed' ;
+  }
+  .spsk{
+      list-style-type: georgian;
+    
+  }
+ .spsk1{
+    list-style-type: circle;
+}
+.spsk2{
+    list-style-type: square;
+}

@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+div{
+    border: 3px solid seagreen;
+    text-align: center;
+}
+
+p{
+    color: slateblue;
+}
+
+.text1{
+    color: red;
+    font-size: 50px;
+}
